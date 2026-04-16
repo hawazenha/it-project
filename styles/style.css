@@ -142,7 +142,7 @@ text{
   text-color: silver
 }
 body {
-  max-width: 900px;
+  max-width:100%;
   min-width: 300px;
   font-family: 'Rajdhani', sans-serif;
   background: #0B0F1A;
